@@ -1,6 +1,6 @@
 spring:
   application:
-    name: fixed-window-rate-limiter
+    name: token-bucket-rate-limiter
   data:
     redis:
       host: localhost

@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FixedWindowRateLimiterApplication {
+public class TokenBucketRateLimiterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FixedWindowRateLimiterApplication.class, args);
+		SpringApplication.run(TokenBucketRateLimiterApplication.class, args);
 	}
 
 }
