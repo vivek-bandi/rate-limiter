@@ -1,6 +1,6 @@
-package com.vivek.fixed_window_rate_limiter.controller;
+package com.vivek.ratelimiter.controller;
 
-import com.vivek.fixed_window_rate_limiter.service.RateLimiterService;
+import com.vivek.ratelimiter.service.RateLimiterService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

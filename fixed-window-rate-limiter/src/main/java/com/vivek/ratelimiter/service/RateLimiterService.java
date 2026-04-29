@@ -1,4 +1,4 @@
-package com.vivek.fixed_window_rate_limiter.service;
+package com.vivek.ratelimiter.service;
 
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.data.redis.core.StringRedisTemplate;
